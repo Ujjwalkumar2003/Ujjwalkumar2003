@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ujjwalkumar2003.vercel.app/](https://portfolio-ujjwalkumar2003.vercel.app/)
 
-- 💬 Ask me about **C,C++,JAVA,SQL,React JS**
+- 💬 Ask me about **C,C++,JAVA,SQL,React JS.**
 
 - 📫 How to reach me **ujjwalkumar24680@gmail.com**
 
